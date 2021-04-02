@@ -1,0 +1,6 @@
+coverage/*
+build/*
+node_modules/*
+src/*.generated.ts
+src/*/*.generated.tsx
+*.md
